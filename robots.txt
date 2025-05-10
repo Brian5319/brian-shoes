@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://brian5319.github.io/brian-shoes/sitemap.xml
