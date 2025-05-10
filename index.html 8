@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Shop stylish and affordable shoes for men at Brian Shoes. Discover quality leather, casual, and formal footwear designed to match your lifestyle." />
+  <meta name="google-site-verification" content="l6-Vud9Lu6y56PaoFOjv4GOxc5Gn9RNrfjZ1SiXMNcQ" />
+  <title>Brian Shoes | Quality Shoes for Men at Affordable Prices</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NSJVDWRT48"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-NSJVDWRT48');
+  </script>
+</head>
+
+<body>
+  <header>
+    <div class="logo">
+      <img src="images/logo.png" alt="Brian Shoes logo" />
+      <h1>Brian Shoes</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#products">Products</a></li>
+        <li><a href="#testimonials">Testimonials</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h1>Shop the Best Shoes for Men Online</h1>
+    <p>Discover quality, comfort, and style at Brian Shoes.</p>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Brian Shoes is dedicated to delivering premium footwear for men. Whether you need casual, formal, or sporty shoes—we’ve got you covered.</p>
+  </section>
+
+  <section id="services">
+    <h2>Services</h2>
+    <ul>
+      <li>Free delivery across Kenya</li>
+      <li>30-day money-back guarantee</li>
+      <li>24/7 customer support</li>
+    </ul>
+  </section>
+
+  <section id="products">
+    <h2>Our Products</h2>
+    <div class="product-card">
+      <img src="images/shoe1.jpg" alt="Brown leather men's dress shoe" />
+      <h3>Leather Dress Shoe</h3>
+      <p>KES 3,500</p>
+    </div>
+    <div class="product-card">
+      <img src="images/shoe2.jpg" alt="Casual sneaker for men" />
+      <h3>Casual Sneakers</h3>
+      <p>KES 2,800</p>
+    </div>
+  </section>
+
+  <section id="testimonials">
+    <h2>What Our Customers Say</h2>
+    <blockquote>"High-quality shoes and fast delivery. I highly recommend Brian Shoes!" – John M.</blockquote>
+    <blockquote>"Affordable and stylish. Will definitely buy again!" – Kevin K.</blockquote>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Phone: 0706363260</p>
+    <p>Email: info@brianshoes.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Brian Shoes. All rights reserved.</p>
+  </footer>
+</body>
+
+</html>
