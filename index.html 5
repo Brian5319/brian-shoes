@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Shop stylish, affordable shoes for men at Brian Shoes. Quality guaranteed.">
+  <meta name="keywords" content="shoes for men, men's shoes, Brian Shoes, affordable shoes, stylish men's footwear" />
+  <meta name="author" content="Brian Shoes" />
+
+  <!-- ✅ Google Site Verification -->
+  <meta name="google-site-verification" content="l6-Vud9Lu6y56PaoFOjv4GOxc5Gn9RNrfjZ1SiXMNcQ" />
+
+  <title>Brian Shoes - Stylish Shoes for Men</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Brian Shoes</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#testimonials">Testimonials</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>Welcome to Brian Shoes</h2>
+    <p>Affordable and stylish shoes for men.</p>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Brian Shoes is committed to delivering high-quality men's shoes that match style, comfort, and affordability.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Products</h2>
+    <div class="product-card">
+      <img src="images/shoe1.jpg" alt="Men's Leather Shoe" />
+      <h3>Leather Shoe</h3>
+      <p>KSh 3,500</p>
+    </div>
+    <div class="product-card">
+      <img src="images/shoe2.jpg" alt="Casual Sneakers" />
+      <h3>Casual Sneakers</h3>
+      <p>KSh 2,800</p>
+    </div>
+  </section>
+
+  <section id="testimonials">
+    <h2>Testimonials</h2>
+    <blockquote>"Best shoes I’ve bought in years. Affordable and classy!" – Kevin M.</blockquote>
+    <blockquote>"Excellent customer service and great quality." – Alice N.</blockquote>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Phone: <a href="tel:+254706363260">0706 363 260</a></p>
+    <p>Email: <a href="mailto:info@brianshoes.com">info@brianshoes.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Brian Shoes. All rights reserved.</p>
+  </footer>
+</body>
+</html>
