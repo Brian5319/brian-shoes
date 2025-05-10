@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Brian Shoes - Stylish and affordable shoes for men. Shop leather shoes, sneakers, and more.">
+  <title>Brian Shoes | Stylish Shoes for Men</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo-nav">
+      <img src="logo.png" alt="Brian Shoes Logo" class="logo">
+      <h1>Brian Shoes</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#testimonials">Testimonials</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <h2>Welcome to Brian Shoes</h2>
+    <p>We sell the best quality shoes for men at unbeatable prices.</p>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Brian Shoes is your go-to store for stylish, affordable, and durable shoes for men. Whether you’re looking for formal, casual, or sporty shoes — we’ve got you covered!</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Online and in-store shoe sales</li>
+      <li>Nationwide delivery</li>
+      <li>Customer support and fitting advice</li>
+    </ul>
+  </section>
+
+  <section id="products">
+    <h2>Our Products</h2>
+    <div class="product-grid">
+      <div class="product-card">
+        <img src="https://images.unsplash.com/photo-1600180758890-6c142f38f374?fit=crop&w=400&q=80" alt="Leather Loafers">
+        <h3>Leather Loafers</h3>
+        <p>Price: KSh 3,500</p>
+      </div>
+      <div class="product-card">
+        <img src="https://images.unsplash.com/photo-1600180758359-9a5aaafe8253?fit=crop&w=400&q=80" alt="Sneakers">
+        <h3>Men's Sneakers</h3>
+        <p>Price: KSh 4,200</p>
+      </div>
+      <div class="product-card">
+        <img src="https://images.unsplash.com/photo-1580719838026-df12ec7ed4ed?fit=crop&w=400&q=80" alt="Formal Shoes">
+        <h3>Formal Shoes</h3>
+        <p>Price: KSh 5,000</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="testimonials">
+    <h2>Testimonials</h2>
+    <blockquote>
+      “I bought two pairs of shoes from Brian Shoes and they were top quality. Great service and delivery too!” – Jospat Kim.
+    </blockquote>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: support@brianshoes.co.ke<br>
+       Phone: +254 706363260<br>
+       Location: Naivasha, Kenya</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Brian Shoes. All rights reserved.</p>
+  </footer>
+</body>
+</html>
